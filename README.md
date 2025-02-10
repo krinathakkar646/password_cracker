@@ -89,7 +89,7 @@ Want to improve this project? Feel free to fork it and submit a pull request! �
 ---
 
 ## 📩 Connect With Me
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
-**GitHub:** [Your GitHub](https://github.com/yourusername/)  
+**LinkedIn:** https://www.linkedin.com/in/krina-thakkar-783521282/ 
+**GitHub:** https://github.com/krinathakkar646
 
 📌 *If you found this project useful, drop a ⭐ on the repo!* 🚀
